@@ -4,7 +4,7 @@
 
 The companion app for students of the [Max-Planck-Gymnasium](http://mpg-umstadt.de) in Groß-Umstadt, Hesse. Powered by [React Native](https://facebook.github.io/react-native/)
 
-Find it on the Windows Store here! (Soon™)
+Find it on the [Windows Store here](https://www.microsoft.com/de-de/store/p/mpg-vplan/9n3lj8wh9nt9)!
 
 Get an always up-to-date and nicely designed representation of the substitution plan, instead of finding out your next four classes are cancelled after an 30 minute long bus drive.
 
